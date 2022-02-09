@@ -179,7 +179,6 @@ section {
   border-color: #39a6b2
 }
 
-
 .trainers {
   text-align: center;
 }
@@ -199,7 +198,7 @@ section {
 
 .trainer bio {
   padding: 35px;
-  float: left;
+  float: right;
   width: 65%;
 }
 
@@ -224,7 +223,7 @@ section {
 }
 
 .text-right {
-text-align: right;
+  text-align: right;
 }
 
 /*REACH OUT STYLES START */
